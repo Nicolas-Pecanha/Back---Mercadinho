@@ -1,0 +1,5 @@
+require('./functions/product')
+require('./functions/auth')
+require('./functions/order')
+require('./functions/cart')
+require('./functions/auxiliar')
